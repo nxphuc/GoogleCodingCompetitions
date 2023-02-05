@@ -40,3 +40,5 @@
 *.out
 *.ans
 *.txt
+*.err
+test*
