@@ -116,8 +116,7 @@ int solve() {
 
 int main() {
 #ifdef LOCAL_JUDGE
-    // freopen("test.in", "rt", stdin);
-    freopen("ts1_input.txt", "rt", stdin);
+    freopen("test.in", "rt", stdin);
     freopen("test.ou", "wt", stdout);
 
 #endif
